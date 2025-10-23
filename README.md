@@ -4,6 +4,6 @@ Project for MMP305
 
 
 ## Members
-Camden Hovell
-Tyler Robertson
-Ethan Buckner
+- Camden Hovell
+- Tyler Robertson
+- Ethan Buckner
